@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f78f19cb0785f649549cdc750b8c5e6d0522fc1e5be3829443ff602b451c9641
-size 783
+# Project Android TV - Kelompok 3
+*Nama Project : WISTIND (Wisata Indonesia)*
+
+```sh
+Dosen Pengampu   : Donny Maulana,S.Kom.,M.M.S.I.
+Mata Kuliah      : Pemrograman Mobile 2
+Anggota Kelompok : Ikram Ramadhan        - (Group Leader)
+                   Raihan Tantowi        - (BackEnd)
+                   Dendy Saputra         - (UI)
+                   Khairil Anwar Harahap - (Testing)
+                   Endang Putri Lestari  - (DataBase)
+```
+#### *WISTIND (Wisata Indonesia)*  Merupakan sebuah aplikasi Android TV yang isi konten aplikasi di dalamnya menunjukan Tempat Wisata (Wisata Gunung & Wisata Pantai), Makanan Khas  & Budaya yang berada di Pulau Jawa dan diluar Jawa.
+
+* **Berikut adalah hasil dari Project yang telah dibuat :**
+
+![Gambar 1](img/ss1.png)
+
