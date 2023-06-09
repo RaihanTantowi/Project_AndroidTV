@@ -16,3 +16,12 @@ Anggota Kelompok : Ikram Ramadhan        - (Group Leader)
 
 ![Gambar 1](img/ss1.png)
 
+
+#### *Note :* 
+Repository dari projek ini menggunakan penyimpanan dari git lfs. 
+Untuk bisa meng-clone projek ini menggunakan git bash yaitu harus menjalankan kode perintah tersebut :
+```sh
+git lfs install
+git lfs clone https://github.com/RaihanTantowi/Project_AndroidTV.git
+``` 
+
